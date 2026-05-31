@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiraliyavari&show_icons=true&locale=en&layout=compact" alt="amiraliyavari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiraliyavari&show_icons=true&locale=en" alt="amiraliyavari" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AmiraliYavari=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
