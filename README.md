@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiraliyavari&show_icons=true&locale=en" alt="amiraliyavari" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AmiraliYavari=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmiraliYavari&theme=dark)
