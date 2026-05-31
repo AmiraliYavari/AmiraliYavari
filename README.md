@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiraliyavari&show_icons=true&locale=en" alt="amiraliyavari" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmiraliYavari&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmiraliYavari&theme=dark
