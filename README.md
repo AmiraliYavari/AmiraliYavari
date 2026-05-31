@@ -31,4 +31,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmiraliYavari&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmiraliYavari&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmiraliYavari&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmiraliYavari&theme=dark&utcOffset=8)
