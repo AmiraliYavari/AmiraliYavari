@@ -11,6 +11,6 @@ Full Stack Developer. Turning ideas into functional, user-friendly applications.
 ![](https://github-readme-stats.shion.dev/api?username=AmiraliYavari&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AmiraliYavari&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmiraliYavari&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+------------------------------------------------------------------------------------------------
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
