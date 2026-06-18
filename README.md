@@ -1,4 +1,4 @@
-# <img src="AMIRALI_NameBlock.png" />
+# <img src="FULL-STACK_NameBlock.png" />
 
 # 💫 About Me:
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Amirali+Yavari;Full+stack+Web/App+dev;Open+source+magician" />
