@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer From Iran.<br>I Love Programming and play games.
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
 
 
 ## 🌐 Socials:
