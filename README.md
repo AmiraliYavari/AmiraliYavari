@@ -205,17 +205,13 @@ Building modern web applications with clean code, powerful technologies and a pa
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmiraliYavari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9&count_private=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmiraliYavari&theme=github_dark" width="49%"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmiraliYavari&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=C9D1D9&count_private=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmiraliYavari&theme=github_dark" width="49%"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiraliYavari&theme=dark&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmiraliYavari&theme=github_dark" width="98%"/>
 
 </div>
 
