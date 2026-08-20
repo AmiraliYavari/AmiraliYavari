@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+Developer;React.js+%7C+Next.js;Node.js+%7C+PHP+%7C+Lua;Always+Learning+%7C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+Developer;React.js+%7C+Next.js;Node.js+%7C+PHP;FiveM+Developer+%7C+Lua;Always+Learning+%7C+Always+Building" />
 
 <br><br>
 
@@ -39,24 +39,7 @@ Building modern web applications with clean code, powerful technologies and a pa
 
 <br>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="70"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=ts" width="70"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="70"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://nextjs.org/">
-<img src="https://skillicons.dev/icons?i=nextjs" width="70"/>
-</a>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
 
 <br><br>
 
@@ -71,25 +54,12 @@ Building modern web applications with clean code, powerful technologies and a pa
 
 <br>
 
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="70"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.php.net/">
-<img src="https://skillicons.dev/icons?i=php" width="70"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.lua.org/">
-<img src="https://skillicons.dev/icons?i=lua" width="70"/>
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,php" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
 <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
 
 <br><br>
 
@@ -97,9 +67,7 @@ Building modern web applications with clean code, powerful technologies and a pa
 
 <br>
 
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="70"/>
-</a>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 <br><br>
 
@@ -107,13 +75,24 @@ Building modern web applications with clean code, powerful technologies and a pa
 
 <br><br>
 
+### 🎮 FiveM Development
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=lua" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
+<img src="https://img.shields.io/badge/FiveM-0D1117?style=for-the-badge&logo=rockstargames&logoColor=00FF9D"/>
+
+<br><br>
+
 ### 🧩 CMS
 
 <br>
 
-<a href="https://wordpress.org/">
-<img src="https://skillicons.dev/icons?i=wordpress" width="70"/>
-</a>
+<img src="https://skillicons.dev/icons?i=wordpress" />
 
 <br><br>
 
@@ -123,12 +102,13 @@ Building modern web applications with clean code, powerful technologies and a pa
 
 ---
 
-<h2 align="center">🚀 Skills</h2>
+<h2 align="center">🚀 My Skills</h2>
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 ### 🟨 JavaScript
@@ -152,9 +132,11 @@ Building modern web applications with clean code, powerful technologies and a pa
 <img src="https://skillicons.dev/icons?i=react" width="60"/>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
 ### ▲ Next.js
@@ -178,14 +160,20 @@ Building modern web applications with clean code, powerful technologies and a pa
 <img src="https://skillicons.dev/icons?i=php" width="60"/>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
 ### 🌙 Lua
 
 <img src="https://skillicons.dev/icons?i=lua" width="60"/>
+
+<br>
+
+<sub>FiveM Development</sub>
 
 </td>
 
@@ -204,7 +192,9 @@ Building modern web applications with clean code, powerful technologies and a pa
 <img src="https://skillicons.dev/icons?i=wordpress" width="60"/>
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
@@ -215,9 +205,9 @@ Building modern web applications with clean code, powerful technologies and a pa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmiraliYavari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9&ring_color=00FF9D" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmiraliYavari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraliYavari&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmiraliYavari&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=C9D1D9&count_private=true" height="180"/>
 
 </div>
 
@@ -225,7 +215,7 @@ Building modern web applications with clean code, powerful technologies and a pa
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AmiraliYavari&theme=dark&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiraliYavari&theme=dark&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" />
 
 </div>
 
@@ -236,19 +226,19 @@ Building modern web applications with clean code, powerful technologies and a pa
 <div align="center">
 
 <a href="https://amiraliyavari.top">
-<img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF9D"/>
+<img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" />
 </a>
 
-<a href="https://www.linkedin.com/in/amirali-yavari">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D"/>
+<a href="https://www.linkedin.com/in/amirali-yavari/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <a href="https://instagram.com/amir.ali.dev">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9D"/>
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
 <a href="https://t.me/Amirali_Yavari_Official">
-<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF9D"/>
+<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
 </a>
 
 </div>
@@ -258,6 +248,8 @@ Building modern web applications with clean code, powerful technologies and a pa
 <div align="center">
 
 ### 💚 Thanks for visiting my profile
+
+<br>
 
 ```text
 CODE  →  CREATE  →  LEARN  →  REPEAT
