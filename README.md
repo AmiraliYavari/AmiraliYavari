@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:2b0000,100:8c0000&height=220&section=header&text=AMIRALI%20YAVARI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=16&descAlignY=58&descColor=8c0000&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:1c2a52,100:3f54a2&height=220&section=header&text=AMIRALI%20YAVARI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=16&descAlignY=58&descColor=3f54a2&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=8C0000&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work.;Full-Stack+%7C+Web+%7C+FiveM;React.js+%7C+Next.js+%7C+Node.js;Code.+Create.+Improve." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=3F54A2&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work.;Full-Stack+%7C+Web+%7C+FiveM;React.js+%7C+Next.js+%7C+Node.js;Code.+Create.+Improve." />
 
 <br/><br/>
 
@@ -15,13 +15,13 @@
 &nbsp;
 
 <a href="https://amiraliyavari.top">
-<img src="https://img.shields.io/badge/Portfolio-080808?style=for-the-badge&logo=googlechrome&logoColor=8C0000"/>
+<img src="https://img.shields.io/badge/Portfolio-080808?style=for-the-badge&logo=googlechrome&logoColor=3F54A2"/>
 </a>
 
 &nbsp;
 
 <a href="https://www.linkedin.com/in/AmiraliYavari">
-<img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=8C0000"/>
+<img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=3F54A2"/>
 </a>
 
 </div>
@@ -188,7 +188,7 @@ I enjoy working on:
 
 <br/>
 
-<img src="https://img.shields.io/badge/WEB%20APPLICATIONS-8C0000?style=flat-square&logo=react&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/WEB%20APPLICATIONS-3F54A2?style=flat-square&logo=react&logoColor=FFFFFF"/>
 
 <br/><br/>
 
@@ -203,7 +203,7 @@ full-stack applications.
 
 <br/>
 
-<img src="https://img.shields.io/badge/ARCHITECTURE-8C0000?style=flat-square&logo=typescript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ARCHITECTURE-3F54A2?style=flat-square&logo=typescript&logoColor=FFFFFF"/>
 
 <br/><br/>
 
@@ -218,7 +218,7 @@ architecture & problem solving.
 
 <br/>
 
-<img src="https://img.shields.io/badge/FIVEM%20SYSTEMS-8C0000?style=flat-square&logo=lua&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FIVEM%20SYSTEMS-3F54A2?style=flat-square&logo=lua&logoColor=FFFFFF"/>
 
 <br/><br/>
 
@@ -264,7 +264,7 @@ and more useful products — one project at a time.
 <br/>
 
 <a href="https://amiraliyavari.top">
-<img src="https://img.shields.io/badge/WEBSITE-8C0000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/WEBSITE-3F54A2?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://github.com/AmiraliYavari">
@@ -272,16 +272,16 @@ and more useful products — one project at a time.
 </a>
 
 <a href="https://www.linkedin.com/in/AmiraliYavari">
-<img src="https://img.shields.io/badge/LINKEDIN-8C0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-3F54A2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.youtube.com/@Amirali_Yavari">
-<img src="https://img.shields.io/badge/YOUTUBE-111111?style=for-the-badge&logo=youtube&logoColor=8C0000"/>
+<img src="https://img.shields.io/badge/YOUTUBE-111111?style=for-the-badge&logo=youtube&logoColor=3F54A2"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AmiraliYavari&style=flat-square&color=8C0000&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=AmiraliYavari&style=flat-square&color=3F54A2&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
@@ -291,4 +291,4 @@ and more useful products — one project at a time.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8c0000,50:2b0000,100:080808&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f54a2,50:1c2a52,100:080808&height=120&section=footer" width="100%"/>

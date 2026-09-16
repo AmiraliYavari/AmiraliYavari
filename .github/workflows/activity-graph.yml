@@ -19,7 +19,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: AmiraliYavari
-          options: bg_color=080808&color=8C0000&line=8C0000&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity
+          options: bg_color=080808&color=3F54A2&line=3F54A2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
