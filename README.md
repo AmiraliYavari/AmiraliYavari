@@ -41,40 +41,6 @@
 
 <br>
 
-# Currently Working On
-
-<p align="center">
-  Building full-stack applications, improving my React.js and TypeScript skills, creating FiveM resources with Lua, and working on open-source projects.
-</p>
-
-<br>
-
-# Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/AmiraliYavari/nexus-fullstack-dashboard">
-  <img src="https://img.shields.io/badge/Nexus%20Full--Stack%20Dashboard-3f54a2?style=for-the-badge&logo=github&logoColor=white" alt="Nexus Full-Stack Dashboard"/>
-</a>
-
-<br><br>
-
-Full-stack dashboard focused on a clean interface, authentication, data management and scalable application structure.
-
-<br><br>
-
-<a href="https://github.com/AmiraliYavari/AY-LoadingScreen">
-  <img src="https://img.shields.io/badge/AY%20LoadingScreen-3f54a2?style=for-the-badge&logo=github&logoColor=white" alt="AY LoadingScreen"/>
-</a>
-
-<br><br>
-
-Custom FiveM loading screen built for a clean and modern server experience.
-
-</p>
-
-<br>
-
 # Tools & Technologies
 
 <p align="center">
