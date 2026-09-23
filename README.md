@@ -51,32 +51,27 @@
 
 # Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-### Nexus Full-Stack Dashboard
-
-A full-stack dashboard project focused on a clean interface, authentication, data management and scalable application structure.
+<p align="center">
 
 <a href="https://github.com/AmiraliYavari/nexus-fullstack-dashboard">
-  <img src="https://img.shields.io/badge/View%20Project-3f54a2?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  <img src="https://img.shields.io/badge/Nexus%20Full--Stack%20Dashboard-3f54a2?style=for-the-badge&logo=github&logoColor=white" alt="Nexus Full-Stack Dashboard"/>
 </a>
 
-    </td>
-    <td width="50%" valign="top">
+<br><br>
 
-### AY LoadingScreen
+Full-stack dashboard focused on a clean interface, authentication, data management and scalable application structure.
 
-A custom FiveM loading screen built for a clean and modern server experience.
+<br><br>
 
 <a href="https://github.com/AmiraliYavari/AY-LoadingScreen">
-  <img src="https://img.shields.io/badge/View%20Project-3f54a2?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  <img src="https://img.shields.io/badge/AY%20LoadingScreen-3f54a2?style=for-the-badge&logo=github&logoColor=white" alt="AY LoadingScreen"/>
 </a>
 
-    </td>
-  </tr>
-</table>
+<br><br>
+
+Custom FiveM loading screen built for a clean and modern server experience.
+
+</p>
 
 <br>
 
