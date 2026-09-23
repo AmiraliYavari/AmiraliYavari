@@ -5,6 +5,7 @@
 **I'm Amirali Yavari, a full-stack developer. I've been programming for two years and I keep looking for new approaches to code, new methods for interface design and better ways to harden security — and then I put them to** **work. Professionally I work with PHP and Express.js, and on the frontend I use React.js and Next.js.**
 
 **My favourite games are Counter-Strike 2 and Rainbow Six Siege. :) I also write game scripts in Lua.**
+
 <br>
 
 # What do I work with?
@@ -42,18 +43,9 @@
 
 # Currently Working On
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>Full-Stack Development</h3>
-      Building web applications, APIs and scalable backend systems.
-    </td>
-    <td align="center" width="50%">
-      <h3>FiveM Development</h3>
-      Creating custom game scripts and systems with Lua.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Building full-stack applications, improving my React.js and TypeScript skills, creating FiveM resources with Lua, and working on open-source projects.
+</p>
 
 <br>
 
@@ -61,19 +53,27 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <h3>Nexus Full-Stack Dashboard</h3>
-      <p>A modern full-stack dashboard project focused on frontend and backend development.</p>
-      <a href="https://github.com/AmiraliYavari/nexus-fullstack-dashboard">
-        <img src="https://img.shields.io/badge/View%20Repository-3f54a2?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+    <td width="50%" valign="top">
+
+### Nexus Full-Stack Dashboard
+
+A full-stack dashboard project focused on a clean interface, authentication, data management and scalable application structure.
+
+<a href="https://github.com/AmiraliYavari/nexus-fullstack-dashboard">
+  <img src="https://img.shields.io/badge/View%20Project-3f54a2?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+
     </td>
-    <td align="center" width="50%">
-      <h3>AY LoadingScreen</h3>
-      <p>A custom loading screen project developed for FiveM servers.</p>
-      <a href="https://github.com/AmiraliYavari/AY-LoadingScreen">
-        <img src="https://img.shields.io/badge/View%20Repository-3f54a2?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+    <td width="50%" valign="top">
+
+### AY LoadingScreen
+
+A custom FiveM loading screen built for a clean and modern server experience.
+
+<a href="https://github.com/AmiraliYavari/AY-LoadingScreen">
+  <img src="https://img.shields.io/badge/View%20Project-3f54a2?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+
     </td>
   </tr>
 </table>
@@ -82,88 +82,69 @@
 
 # Tools & Technologies
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" /><br>
-      <b>Node.js</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" alt="Express.js" /><br>
-      <b>Express.js</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" alt="MySQL" /><br>
-      <b>MySQL</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" /><br>
-      <b>Git</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub" /><br>
-      <b>GitHub</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" alt="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub"/>
+
+</p>
 
 <br>
 
 # GitHub Stats
 
-<div align="center">
-
-<img src="./profile/stats.svg" width="495"/>
-
-</div>
+<p align="center">
+  <img src="./profile/stats.svg" width="495" alt="GitHub Stats"/>
+</p>
 
 <br>
 
 # GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/AmiraliYavari/nexus-fullstack-dashboard?label=Yearly%20Commits&style=flat&color=3f54a2" alt="Yearly Commits"/>
+  <img src="https://img.shields.io/github/last-commit/AmiraliYavari/nexus-fullstack-dashboard?label=Last%20Commit&style=flat&color=3f54a2" alt="Last Commit"/>
+</p>
 
-<a href="https://github.com/AmiraliYavari">
-  <img src="https://img.shields.io/github/commit-activity/y/AmiraliYavari/nexus-fullstack-dashboard?style=for-the-badge&label=Commit%20Activity&color=3f54a2" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AmiraliYavari?label=Followers&style=flat&color=3f54a2" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AmiraliYavari&query=$.public_repos&label=Repositories&style=flat&color=3f54a2" alt="Repositories"/>
+</p>
 
-<a href="https://github.com/AmiraliYavari">
-  <img src="https://img.shields.io/github/last-commit/AmiraliYavari/nexus-fullstack-dashboard?style=for-the-badge&label=Last%20Commit&color=3f54a2" />
-</a>
+<br>
 
-<a href="https://github.com/AmiraliYavari">
-  <img src="https://img.shields.io/github/followers/AmiraliYavari?style=for-the-badge&label=Followers&color=3f54a2" />
-</a>
+# Contribution Streak
 
-<a href="https://github.com/AmiraliYavari?tab=repositories">
-  <img src="https://img.shields.io/github/repos/AmiraliYavari?style=for-the-badge&label=Repositories&color=3f54a2" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiraliYavari&theme=dark&hide_border=true&background=080808&ring=3f54a2&fire=3f54a2&currStreakLabel=3f54a2" width="495" alt="GitHub Contribution Streak"/>
+</p>
 
 <br>
 
 # Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/AmiraliYavari">
-  <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-AmiraliYavari-080808?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://linkedin.com/in/AmiraliYavari">
-  <img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-AmiraliYavari-080808?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://youtube.com/@Amirali_Yavari">
-  <img src="https://img.shields.io/badge/YouTube-080808?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-AmiraliYavari-080808?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 <a href="https://t.me/Amirali_Yavari_Official">
-  <img src="https://img.shields.io/badge/Telegram-080808?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-AmiraliYavari-080808?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
-</div>
+</p>
 
 <br>
 
